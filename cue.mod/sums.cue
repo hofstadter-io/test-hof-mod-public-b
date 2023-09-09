@@ -1,4 +1,4 @@
 sums: {
-	"github.com/hofstadter-io/test-hof-mod-public-d": "v0.0.1": ["h1:PbYnBWzOEObZ3AxhlMH2v+ppGgLkKMOYEv+cKNg6j9Y="]
-	"github.com/hofstadter-io/test-hof-mod-public-e": "v0.0.1": ["h1:gSyhx0i2V+bVBX3VdxWaJnWB829/rTT8GWwIO7CmJ5M="]
+	"github.com/hofstadter-io/test-hof-mod-public-d": "v0.0.3": ["h1:AMzdHCy+PrwSFdrkgZvwdQlZVR8aQGlnakG5aemlyRo="]
+	"github.com/hofstadter-io/test-hof-mod-public-e": "v0.0.2": ["h1:7dJc3cicoz+8jTauOuP4xvVfzmCDGynXt/9QNMrK68A="]
 }
